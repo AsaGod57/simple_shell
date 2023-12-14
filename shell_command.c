@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * shell_command - Starts to concatenate an input in glovar PATH
+ * append_command - Starts to concatenate an input in glovar PATH
  * @dir_path: Specifies directory string with the command
  * @command: Specifies command to be concatenated with dir
  * Return: Buffer to concatenated path (Ends)
